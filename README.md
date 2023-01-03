@@ -1,5 +1,13 @@
 # speech-to-text
 
+This is a simple app that uses the Web Speech API to convert speech to text, as well Bootstrap for styling.
+
+Built with:
+
+- HTML
+- JavaScript
+- Bootstrap
+
 <img width="1281" alt="Screen Shot 2023-01-03 at 9 57 26 AM" src="https://user-images.githubusercontent.com/104343338/210393697-4a2985f8-07b6-44ba-9fa2-19f1c42287bb.png">
 
 <img width="1280" alt="Screen Shot 2023-01-03 at 9 57 50 AM" src="https://user-images.githubusercontent.com/104343338/210393763-cf1ade3f-c8fd-410a-8b75-8b6174292279.png">
